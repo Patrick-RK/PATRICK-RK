@@ -3,7 +3,7 @@
 I'm a 33 year old Irish - Venezuelan. 
 
 Since the pandemic, I've been reupskilling in tech, starting with a Postgraduate Diploma in Data Analytics, and just this September, I finished my Master's in Data Analytics.
-I've spent the last year in Japan on a working holiday visa and looking forward to seeing what the next opportunity in life is going to be. 
+I've spent the last year in Japan on a working holiday visa  where I worked as a Python Instructor and I'm looking forward to seeing what the next opportunity in life is going to be. 
 
 ## 🎓 Master's Thesis
 My Master's thesis focused on the impact of cumulative head trauma on fighter performance in the UFC using Machine Learning. The project was broken down into three key steps:
