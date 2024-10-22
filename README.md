@@ -8,32 +8,38 @@ I've spent the last year in Japan on a working holiday visa and looking forward 
 ## 🎓 Master's Thesis
 My Master's thesis focused on the impact of cumulative head trauma on fighter performance in the UFC using Machine Learning. The project was broken down into three key steps:
 
-1. **Scraping:** Collecting fight data and statistics from various sources.
-2. **Cleaning:** Organizing raw data into a structured format suitable for analysis.
-3. **Modeling:** Building predictive models to understand how career trauma affects fighter performance.
+1. **Scraping:** Collecting fight data and statistics from various sources using Python beautifulsoup and selenium. 
+2. **Cleaning:** Organizing raw data into a structured format suitable for analysis. This was done in R however some cleaning and joining was also performed in python using pandas.
+3. **Modeling:** Building predictive models to understand how career trauma affects fighter performance. The majority of models were tested and created in both R and Python
 
 Visualizations were added at the end to provide insights into the effects of factors like age, reach, and striking accuracy.
 
 ## 🔧 Technologies & Tools
-- **Languages:** Python, C/C++, TypeScript, JavaScript, SQL (PL/SQL, SQLite, Oracle)
-- **Frameworks & Libraries:** React Native, Expo, Express, pandas, scikit-learn, TensorFlow
+- **Languages:** Python, R,  SQL (PL/SQL, SQLite, Oracle).
+- **Frameworks & Libraries:** Flask, scikit-learn, TensorFlow
 - **Tools:** Git, Docker, Selenium, Beautiful Soup, Tableau
-- **Platforms:** AWS, Google Cloud, Heroku
+- **Platforms:** Big Query
+
+-**Currently Learning:** Typescript, Javascript, Expo
 
 ## 🌱 What I'm Currently Working On
-- **Sentiment Analysis Tracker:** A web-based tool that gathers data from websites, performs sentiment analysis, and visualizes the results on a dashboard. It’s built using React, Express, and VADER.
-- **Programming Lessons for Kids:** Developing a curriculum that blends coding with English language learning, creating tools and interactive lessons to make programming accessible for younger audiences.
-- **Game Development:** Experimenting with a Digimon World clone using modern web technologies, focusing on the gameplay mechanics and UI.
+- **Weekly Organiser**:Organiser that is based on on medicine wall charts to prioritise repeating tasks
+- **Game Development:** Experimenting with a roguelite FTL style autobattler using pygame and LLM generated events
+- - **Anki Card Generator:** A React-based web app for creating Anki flashcards in both Japanese and English, aiming to facilitate language learning.
 
 ## 🛠️ Other Projects
-- **Weekly Organizer:** A Python tool to help manage weekly tasks and goals, boosting productivity.
 - **Kanji Learning Help:** A React-based app that generates Anki cards to support N4/N5 level kanji learning, making language acquisition more structured and fun.
-- **Anki Card Generator:** A React-based web app for creating Anki flashcards in both Japanese and English, aiming to facilitate language learning.
+- **Guitar Fretboard Visualisier**: An app i built to experiment with flask that helps visualise the fretboard based on the note relationships rather than their position on the board.
+- **Typing Speed Improver App**: App to improve the users typing speed based on their weakest performing key combinations. 
+
 
 ## 🎸 Personal Interests
-I'm passionate about creating tools that improve my skills and hobbies. 
+Love learning languages, I speak fluent Spanish, pretty Mandarin (HSK3/4), I play videogames in French better than speak it and have picked up bits and pieces of Japanese up since i've lived here.
+
 Recently, I’ve been working on apps to enhance my guitar practice by integrating music theory into coding. 
 I also enjoy music production and exploring different ways to merge tech and creativity.
+
+I'm passionate about creating tools that improve my skills and hobbies so a lot of my projects center around that. 
 
 ## 📚 Education
 - **Master's in Data Analytics:** My thesis explored the effects of career trauma on UFC fighters, using machine learning models and extensive data visualization.
@@ -45,7 +51,7 @@ I'm actively looking for software engineering roles in Japan, but I'm open to an
 
 ## 📫 Get in Touch
 - **Email:** patrickraphaelkilleen@gmail.com
-- **LinkedIn:** [Your LinkedIn Profile URL](https://linkedin.com)
-- **Portfolio:** [Your Portfolio URL](https://your-portfolio.com)
+- **LinkedIn:** [Your LinkedIn Profile URL](www.linkedin.com/in/patrickrk)
+- **Portfolio:** [Your Portfolio URL](www.patrickkilleen.com)
 
 Thanks for visiting my profile! I'm always open to new collaborations, feedback, and ideas. 🚀
