@@ -9,10 +9,9 @@ I've spent the last year in Japan on a working holiday visa  where I worked as a
 My Master's thesis focused on the impact of cumulative head trauma on fighter performance in the UFC using Machine Learning. The project was broken down into three key steps:
 
 1. **Scraping:** Collecting fight data and statistics from various sources using Python beautifulsoup and selenium. 
-2. **Cleaning:** Organizing raw data into a structured format suitable for analysis. This was done in R however some cleaning and joining was also performed in python using pandas.
-3. **Modeling:** Building predictive models to understand how career trauma affects fighter performance. The majority of models were tested and created in both R and Python
-
-Visualizations were added at the end to provide insights into the effects of factors like age, reach, and striking accuracy.
+2. **Cleaning:** Organizing raw data into a structured format suitable for analysis. This was done in R however some cleaning and joining was also performed in python using pandas and one or two issues were cleaned up in excel.
+3. **Modeling:** Building predictive models to understand how career trauma affects fighter performance. The models were tested and created in both R and Python
+4. **Visualizations** were added using seaborn, matplotlib and tableau to provide insights into the results of study.
 
 ## 🔧 Technologies & Tools
 - **Languages:** Python, R,  SQL (PL/SQL, SQLite, Oracle).
