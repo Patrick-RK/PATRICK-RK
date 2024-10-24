@@ -28,8 +28,7 @@ My Master's thesis focused on the impact of cumulative head trauma on fighter pe
 
 ## 🛠️ Other Projects
 - **Kanji Learning Help:** A React-based app that generates Anki cards to support N4/N5 level kanji learning, making language acquisition more structured and fun.
-- **Anki Card Generator:** A React-based web app for creating Anki flashcards in both Japanese and English, aiming to facilitate language learning
-- **Guitar Fretboard Visualisier**: An app i built to experiment with flask that helps visualise the fretboard based on the note relationships rather than their position on the board.
+- **Guitar Fretboard Visualisier**: An app i built to experiment with flask that helps visualise the fretboard based on the note relationships rather than their position on the board to help acquire music theory faster.
 
 
 ## 🎸 Personal Interests
