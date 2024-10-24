@@ -9,7 +9,7 @@ Since the pandemic, I've been reupskilling in tech, starting with a Postgraduate
 My Master's thesis focused on the impact of cumulative head trauma on fighter performance in the UFC using Machine Learning. The project was broken down into three key steps:
 
 1. **Scraping:** Collecting fight data and statistics from various sources using Python beautifulsoup and selenium.
-2. **Database** This data was stored in SQLite
+2. **Database** SQLite was used to saved scraped data which was happened into csv format for ease of cleaning.  
 3. **Cleaning:** Data was cleaning was done in R however some. There were some cleaning and joining was also performed in python using pandas and one or two issues were cleaned up in excel. Premodelling was performed in Python using Jupyter notebooks.
 4. **Modeling:** Building predictive models to understand how career trauma affects fighter performance. The models were tested and created in both R and Python
 5. **Visualizations** were added using seaborn, matplotlib and tableau to provide insights into the results of study.
