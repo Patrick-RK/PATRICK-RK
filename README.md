@@ -46,7 +46,7 @@ Recently, I’ve been working on apps to enhance my guitar practice by integrati
 - **Undergraduate in International Business:** This foundation, combined with startup experience in China, fueled my interest in data science and problem-solving.
 
 ## 🎯 Goals & Aspirations: 
-I'm actively looking for software engineering roles in Japan, but I'm open to anywhere in the world. I can still get working Holiday Visas for Australia, Canada and Switzerland and I can get a graduate Visa for America.
+I'm actively looking for software engineering or Data related roles in Japan, but I'm open to anywhere in the world. I can still get working Holiday Visas for Australia, Canada and Switzerland and I can get a graduate Visa for America.
 
 ## 📫 Get in Touch
 - **Email:** patrickraphaelkilleen@gmail.com
