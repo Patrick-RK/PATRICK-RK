@@ -27,8 +27,8 @@ My Master's thesis focused on the impact of cumulative head trauma on fighter pe
 - **Game Development:** Experimenting with a roguelite FTL style autobattler using pygame and LLM generated events
 
 ## 🛠️ Other Projects
-- **Kanji Learning Help:** A React-based app that generates Anki cards to support N4/N5 level kanji learning, making language acquisition more structured and fun.
-- **Guitar Fretboard Visualisier**: An app i built to experiment with flask that helps visualise the fretboard based on the note relationships rather than their position on the board to help acquire music theory faster.
+- **Kanji Memorization Aid:** A React-based app that generates Anki cards to support the rapid memorisation of Kanji through recollection. 
+- **Guitar Fretboard Visualisier**: An app I built to experiment with flask that helps visualise the fretboard based on the note relationships rather than their position on the board to help acquire music theory faster.
 
 
 ## 🎸 Personal Interests
