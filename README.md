@@ -51,7 +51,6 @@ I'm actively looking for software engineering roles in Japan, but I'm open to an
 
 ## 📫 Get in Touch
 - **Email:** patrickraphaelkilleen@gmail.com
-- **LinkedIn:** [Your LinkedIn Profile URL](www.linkedin.com/in/patrickrk)
-- **Portfolio:** [Your Portfolio URL](www.patrickkilleen.com)
+- **LinkedIn:** [LinkedIn]([www.linkedin.com/in/patrickrk](https://www.linkedin.com/in/patrickrk/))
 
 Thanks for visiting my profile! I'm always open to new collaborations, feedback, and ideas. 🚀
