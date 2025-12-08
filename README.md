@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Patrick Killeen
 
-I'm a 33 year old Irish / Venezuelan that live in China for 5 years and have just finished up a working holiday visa in Japan where I worked as a python Instructor. I'm looking forward to seeing what the next opportunity in life is going to be. 
+I'm a 33 year old Irish / Venezuelan that lived in China for 5 years and have just finished up a working holiday visa in Japan where I worked as a python Instructor. I'm looking forward to seeing what the next opportunity in life is going to be. 
 
 
 Since the pandemic, I've been reupskilling in tech, starting with a Postgraduate Diploma in Data Analytics, and just this September, I finished my Master's in Data Analytics.
